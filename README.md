@@ -63,4 +63,3 @@ else if (event.data.type == 'type') {
 
 Don't forget to change the type to the same name as you choose for "example".
 
-If you need help contact me on discord: https://discord.gg/Knw8UyqxbQ
